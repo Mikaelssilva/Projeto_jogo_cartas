@@ -56,7 +56,6 @@ public class Main {
 
             Scanner in = new Scanner(System.in);
 
-            // deve existir uma forma melhor de fazer isso mas por enquanto ta ok
             // cada conjunto de cartas vai ser o inventario de cada jogador
             System.out.println("ESCOLHA SEU DECK (JOGADOR 1)");
             Deck deck1 = new Deck();
